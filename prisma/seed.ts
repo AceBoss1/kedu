@@ -8,7 +8,7 @@ async function main() {
       name: "Nkechi",
       profiles: {
         create: {
-          lineage: "Ọmụnna",
+          lineage: "Ụmụnna",
           language: "Igbo",
           community: "Diaspora",
           culturalTags: ["Uli", "Ọjị", "Ụmụnne"]
